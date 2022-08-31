@@ -13,3 +13,6 @@ https://www.w3schools.com/bootstrap4/trybs_template1.htm
 > https://getbootstrap.com/docs/5.2/getting-started/introduction/
 > 
 > https://www.w3schools.com/bootstrap/bootstrap_ver.asp
+
+the img
+[HWimg2.docx](https://github.com/Muneeraaaaa/H.W-Bootstrap-HTML-CSS/files/9459533/HWimg2.docx)
